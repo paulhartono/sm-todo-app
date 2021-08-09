@@ -1,10 +1,10 @@
 # sm-todo-app
-
+some description later
 ## Requirements
 
 mysql database
 
-checkout TodoMVC 
+checkout TodoMVC
 
 assume that the frontend will make request to backend for every single operation, build all endpoints to service the FE based on that assumption
 
